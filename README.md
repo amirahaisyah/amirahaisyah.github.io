@@ -4,7 +4,7 @@
 
 <div style="flex: 1;">
 
-  <img src="profileimage.jpeg" alt="Profile Image" style="width: 100%; max-width: 300px; height: auto;">
+  <img src="profileimage.jpg" alt="Profile Image" style="width: 100%; max-width: 300px; height: auto;">
   
   ## Contact
   
