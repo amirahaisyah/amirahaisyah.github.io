@@ -16,24 +16,28 @@
 
 <div style="flex: 2; padding-left: 20px;">
   
-  ## Introduction
-  
-  Hello, I'm Amirah. I have a passion for Web development. My educational background and professional experience have equipped me with the skills needed to excel in web development.
-  
-  ---
+## Introduction 
+Hello, I'm Amirah. I have a passion for Web development. My educational background and professional experience have equipped me with the skills needed to excel in web development. 
 
-  ## Skills
-  
-  - **Programming Languages:** c++, Java, JavaScript, HTML, python 
-  - **Frameworks:** blabla
-  - **Other Skills:** unicycling
-  
-  ---
+---
 
-  ## Education
-  
-  
-  - **University:** Sungkyunkwan University
-  - **Major:** computer science and engineering
-  
-  ### Ac
+## Skills 
+- **Programming Languages:** c++, Java, JavaScript, HTML, python 
+- **Frameworks:** blabla 
+- **Other Skills:** unicycling 
+
+---
+
+## Education 
+- **University:** Sungkyunkwan University 
+- **Major:** computer science and engineering 
+
+### Academic Accomplishments 
+- 1st place speed eating competition 
+- 1st place table tennis
+- longest unicycling
+
+### Relevant Courses 
+-
+- 
+- 
