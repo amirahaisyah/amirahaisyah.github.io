@@ -6,11 +6,12 @@
 
   <img src="profileimage.jpg" alt="Profile Image" style="width: 100%; max-width: 300px; height: auto;">
   
-  # Contact
-  
-  - **Email:** amirahaiisyah@gmail.com
-  - **GitHub:** [amirahaisyah](https://github.com/amirahaisyah)
-  - **Phone:** 010-21908888
+# Contact
+
+- **Email:** [amirahaiisyah@gmail.com](mailto:amirahaiisyah@gmail.com)
+- **GitHub:** [amirahaisyah](https://github.com/amirahaisyah)
+- **Phone:** 010-21908888
+
 </div>
 
 <div style="flex: 2; padding-left: 20px;">
