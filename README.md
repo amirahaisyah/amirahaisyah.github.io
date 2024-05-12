@@ -1,6 +1,6 @@
 # Amirah's Personal Homepage
 
-![Profile Image](profileimage.jpg)
+<img src="profileimage.jpg" alt="Profile Image" style="width: 150px; height: auto;">
 
 ## Contact
 
